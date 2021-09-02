@@ -1,0 +1,108 @@
+.icons {
+	width: 1.5rem;
+	height: 1.5rem;
+	display: inline-block;
+	cursor: pointer;
+	background-repeat: no-repeat !important;
+	background-position: center !important;
+	background-size: cover !important;
+	background-color: var(--icon-color);
+}
+
+.mic-icon {
+	mask-image: url('assets/icons/mic-icon.svg');
+	-webkit-mask-image: url('assets/icons/mic-icon.svg');
+}
+.repeat-icon {
+	mask-image: url('assets/icons/repeat.svg');
+	-webkit-mask-image: url('assets/icons/repeat.svg');
+}
+.bell-icon {
+	mask-image: url('assets/icons/bell.svg');
+	-webkit-mask-image: url('assets/icons/bell.svg');
+}
+.chevron-down-icon {
+	mask-image: url('assets/icons/chevron-down.svg');
+	-webkit-mask-image: url('assets/icons/chevron-down.svg');
+}
+.heart-icon {
+	mask-image: url('assets/icons/heart.svg');
+	-webkit-mask-image: url('assets/icons/heart.svg');
+	transition: 0.3s ease-in-out;
+}
+.heart-fill-icon {
+	mask-image: url('assets/icons/heart-fil.svg');
+	-webkit-mask-image: url('assets/icons/heart-fil.svg');
+}
+.heart-icon:hover {
+	transform: scale(1.2);
+}
+.connect-devices-icon {
+	mask-image: url('assets/icons/connect-to-device.svg');
+	-webkit-mask-image: url('assets/icons/connect-to-device.svg');
+}
+.playlist-line-icon {
+	mask-image: url('assets/icons/playlist-line.svg');
+	-webkit-mask-image: url('assets/icons/playlist-line.svg');
+}
+.play-icon {
+	mask-image: url('assets/icons/play.svg');
+	-webkit-mask-image: url('assets/icons/play.svg');
+}
+.search-icon {
+	mask-image: url('assets/icons/search.svg');
+	-webkit-mask-image: url('assets/icons/search.svg');
+}
+.shuffle-icon {
+	mask-image: url('assets/icons/shuffle.svg');
+	-webkit-mask-image: url('assets/icons/shuffle.svg');
+}
+.next-icon {
+	mask-image: url('assets/icons/next.svg');
+	-webkit-mask-image: url('assets/icons/next.svg');
+}
+.prev-icon {
+	mask-image: url('assets/icons/prev.svg');
+	-webkit-mask-image: url('assets/icons/prev.svg');
+}
+.menu-icon {
+	mask-image: url('assets/icons/menu.svg');
+	-webkit-mask-image: url('assets/icons/menu.svg');
+	cursor: pointer;
+}
+.volume-up-icon {
+	mask-image: url('assets/icons/volume-up.svg');
+	-webkit-mask-image: url('assets/icons/volume-up.svg');
+}
+.volume-mute-icon {
+	mask-image: url('assets/icons/volume-mute.svg');
+	-webkit-mask-image: url('assets/icons/volume-mute.svg');
+}
+.skip-icon {
+	mask-image: url('assets/icons/skip.svg');
+	-webkit-mask-image: url('assets/icons/skip.svg');
+}
+.pause-icon {
+	mask-image: url('assets/icons/pause.svg');
+	-webkit-mask-image: url('assets/icons/pause.svg');
+}
+.expand-icon {
+	mask-image: url('assets/icons/expand.svg');
+	-webkit-mask-image: url('assets/icons/expand.svg');
+}
+.delete-from-playlist {
+	mask-image: url('assets/icons/delete-from-playlist.svg');
+	-webkit-mask-image: url('assets/icons/delete-from-playlist.svg');
+}
+.plus-icon {
+	mask-image: url('assets/icons/plus.svg');
+	-webkit-mask-image: url('assets/icons/plus.svg');
+}
+.moon-icon {
+	mask-image: url('assets/icons/moon.svg');
+	-webkit-mask-image: url('assets/icons/moon.svg');
+}
+.sun-icon {
+	mask-image: url('assets/icons/');
+	-webkit-mask-image: url('assets/icons/sun.svg');
+}
