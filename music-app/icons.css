@@ -103,6 +103,13 @@ mask-image: url('icons/moon.svg');
 -webkit-mask-image: url('icons/moon.svg');
 }
 .sun-icon {
-mask-image: url('icons/');
+mask-image: url('icons/sun.svg');
 -webkit-mask-image: url('icons/sun.svg');
 }
+
+.facebook-icon{
+  mask-image: url("icons/facebook-icon.svg");
+  -webkit-mask-image: url("icons/facebook-icon.svg");
+}
+
+
